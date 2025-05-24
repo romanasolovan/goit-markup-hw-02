@@ -1,0 +1,159 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #2e2f42;
+    font-style: normal;
+}
+
+ul {
+    list-style: none; }
+
+.navigation .logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.logo-accent {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2e2f42;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active,
+.contact-link:hover,
+.contact-link:focus {
+    color: #404bbf;
+
+}
+
+.contacts {
+    font-style: normal;
+}
+
+.contact-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #434455;
+}
+
+.hero {
+    background-color: #2e2f42;
+}
+
+.title {
+    font-size: 56px;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.action-btn {
+    font-family: "Roboto" sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    cursor: pointer;
+    background-color: #4d5ae5;
+    color: #FFFFFF;
+}
+
+.action-btn:hover,
+.action-btn:focus {
+    background-color: #404BBF;
+}
+
+.features {
+
+}
+
+.visually-hidden {
+
+}
+
+.subtitle {
+
+}
+
+.subtitle-text {
+
+}
+
+.team {
+
+}
+
+.team-subtitle {
+
+}
+
+.team-member {
+    text-align: center;
+    background-color: #fff;
+}
+
+.porfolio {
+
+}
+
+.portolio-subtitle {
+
+}
+
+.portolio-item {
+text-align: center;
+background-color: #FFFFFF;
+}
+
+.footer {
+
+}
+
+.logo-accent {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f4f4fd;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
